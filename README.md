@@ -4,7 +4,7 @@ Run the program in Python
 
 There are 4 CSV files in the folder.
 
-Each CSV file has 3 fields : Name , State , age
+Each CSV file has 3 fields : Name , State , Age
 
 There are 2 dropdowns ,
 1. To select the file
